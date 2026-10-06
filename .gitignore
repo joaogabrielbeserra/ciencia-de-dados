@@ -1,1 +1,11 @@
 .venv
+
+# Ambiente, dados locais e arquivos temporarios
+.venv/
+dataset/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
